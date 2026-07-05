@@ -11,7 +11,7 @@ blueprint:
         device:
           integration: mqtt
           manufacturer: IKEA
-          model: "BILRESA remote control with buttons"
+          model: "BILRESA remote control with buttons (Matter)"
     target_light:
       name: Target Light
       selector:
